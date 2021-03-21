@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+
+  web:
+    image: webapp:v0
+    ports:
+    - 80:80

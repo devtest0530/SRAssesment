@@ -2,6 +2,6 @@ version: '3.9'
 services:
 
   web:
-    image: webapp:v0
+    image: devtest0530/srassesment:latest
     ports:
     - 80:80
